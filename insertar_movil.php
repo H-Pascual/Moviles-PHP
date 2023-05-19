@@ -20,7 +20,7 @@
             header('Location:error.php');
         }
 
-        $consulta = NULL;
+        $insercion = NULL;
         $pdo = NULL;
 ?>
 <?php include 'php/pie.inc' ?>
